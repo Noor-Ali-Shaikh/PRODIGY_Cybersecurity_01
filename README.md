@@ -51,7 +51,6 @@ Example with a **shift of 3**:
 ## 📸 Demo:
 Below is the screenshot of the **Caesar Cipher GUI Tool**:
 
-![Caesar Cipher Tool](TOOL.png)
 ![TOOL](https://github.com/user-attachments/assets/f87dafe5-994c-4db4-8a30-fcc0c29b328d)
 
 
